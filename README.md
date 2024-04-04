@@ -1,5 +1,6 @@
 # Wizard_QLoRA_Finetuning
-Finetuning Some Wizard Models With QLoRA
+Finetuning Some Wizard Models With QLoRA - Modded to run on Windows
+Requirements.txt adds [flax](https://github.com/google/flax) and [bitsandbytes-windows](https://github.com/jllllll/bitsandbytes-windows-webui) from a wheel in https://github.com/jllllll/bitsandbytes-windows-webui
 
 # Demo
 [https://youtu.be/hkt5Nz0buso?si=HNmYLp_z5SGZlMbM](https://youtu.be/hkt5Nz0buso?si=HNmYLp_z5SGZlMbM)
